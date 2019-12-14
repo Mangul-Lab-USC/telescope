@@ -9,7 +9,7 @@ This is an example to test if telescope is able to find your jobs on the remote 
 
 Start by cloning this repository:
 ```shell
-git clone https://github.com/QCB-Collaboratory/telescope
+git clone https://github.com/Mangul-Lab-USC/telescope
 cd telescope
 ```
 Use scp to copy the test script to your user account:

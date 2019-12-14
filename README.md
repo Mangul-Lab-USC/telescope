@@ -6,7 +6,7 @@
 
 Telescope is an open-source web applciation that tracks the progress of jobs submitted to remote servers using Sun Grid Engine (SGE) on-demand scheduling system. It allows remote scheduling of pre-defined pipelines, as well as re-schedule queued jobs. Moreover, output files are rendered in HTML in real time, allowing  the use of markdown and rich-text features. Telescope does not assume anything from the remote server, except for SSH connection. The connection is stablished using SSH key pairs that are stored after encrypted.
 
-### For more information, screenshots and a live-demo, please [visit our wiki](https://github.com/QCB-Collaboratory/telescope/wiki).
+### For more information, screenshots and a live-demo, please [visit our wiki](https://github.com/Mangul-Lab-USC/telescope/wiki).
 
 If you are interested in learning more about Telescope, or if you want to join the team to contribute, [don't hesitate in contacting us](https://github.com/Mangul-Lab-USC/telescope#contact-bugs-and-suggestions). There are several ways to contribute! Also, visit the [Documentation](https://github.com/Mangul-Lab-USC/telescope/wiki/Documentation) portion of our Wiki for more descriptions of the software and details about the installation and running of Telescope.
 
@@ -81,7 +81,7 @@ These dependencies will automatically be installed if Telescope is installed usi
 
 ## License
 
-Telescope is shared under the [GNU General Public License v3.0](https://github.com/QCB-Collaboratory/telescope/blob/master/LICENSE), please take a moment to read it. Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+Telescope is shared under the [GNU General Public License v3.0](https://github.com/Mangul-Lab-USC/telescope/blob/master/LICENSE), please take a moment to read it. Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ```
 Telescope

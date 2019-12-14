@@ -79,6 +79,18 @@ Telescope can be self-hosted and track jobs from a list of users. It runs in Pyt
 
 These dependencies will automatically be installed if Telescope is installed using ```pip```.
 
+## Change Log
+
+* 2017 - 2018: The current version reflects the developments made at the [Winter Python Hackathon](https://github.com/QCB-Collaboratory/Python-Hackathon-Winter2018). 
+* 2019: Scoping further development and migration to Mangul lab.
+* Q1/2020: Release of new features for USC cluster infrastructure:
+  * Creating/updating/deleting jobs
+  * Implementation of OAuthLogin
+  * Rate limiter of requests 
+  * Cache of last results
+  * Use of archived statistics to estimate the resources 
+
+
 ## License
 
 Telescope is shared under the [GNU General Public License v3.0](https://github.com/Mangul-Lab-USC/telescope/blob/master/LICENSE), please take a moment to read it. Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.

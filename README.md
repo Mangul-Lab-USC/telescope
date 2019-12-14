@@ -8,20 +8,21 @@ Telescope is an open-source web applciation that tracks the progress of jobs sub
 
 ### For more information, screenshots and a live-demo, please [visit our wiki](https://github.com/QCB-Collaboratory/telescope/wiki).
 
-If you are interested in learning more about Telescope, or if you want to join the team to contribute, [don't hesitate in contacting us](https://github.com/QCB-Collaboratory/telescope#contact-bugs-and-suggestions). There are several ways to contribute! Also, visit the [Documentation](https://github.com/QCB-Collaboratory/telescope/wiki/Documentation) portion of our Wiki for more descriptions of the software and details about the installation and running of Telescope.
+If you are interested in learning more about Telescope, or if you want to join the team to contribute, [don't hesitate in contacting us](https://github.com/Mangul-Lab-USC/telescope#contact-bugs-and-suggestions). There are several ways to contribute! Also, visit the [Documentation](https://github.com/Mangul-Lab-USC/telescope/wiki/Documentation) portion of our Wiki for more descriptions of the software and details about the installation and running of Telescope.
 
-This project started as an effort from the [Collaboratory](https://qcb.ucla.edu/collaboratory/), a unit within the Institute for Quantitative and Computational Biology (QCBio) at UCLA, and was developed during the [Winter Python Hackathon](https://github.com/QCB-Collaboratory/Python-Hackathon-Winter2018). It is currently under development by a number of people from the QCBio community and various other labs. We are also working on a paper describing this system and how it can be used to help biologists to leverage the power of large computational facilities in a user friendly manner.
+This project started as an effort from the [Collaboratory](https://qcb.ucla.edu/collaboratory/), a unit within the Institute for Quantitative and Computational Biology (QCBio) at UCLA, and was developed during the [Winter Python Hackathon](https://github.com/QCB-Collaboratory/Python-Hackathon-Winter2018). It is currently maintained by the Mangul Lab at USC. 
+We have also published the paper "Telescope: an interactive tool for managing large scale analysis from mobile devices", available at [arxiv](https://arxiv.org/abs/1909.12469).
 
 
 ## Quick start
 
-There are very few steps necessary to get started with Telescope. For a step-by-step tutorial, [click here](https://github.com/QCB-Collaboratory/telescope/blob/master/test/Readme.md) or [here](https://github.com/QCB-Collaboratory/telescope/wiki/Documentation).
+There are very few steps necessary to get started with Telescope. For a step-by-step tutorial, [click here](https://github.com/Mangul-Lab-USC/telescope/blob/master/test/Readme.md) or [here](https://github.com/Mangul-Lab-USC/telescope/wiki/Documentation).
 
 ### Installation
 
 The easiest way to install telescope is by using ```pip```:
 ```
-pip install git+https://github.com/QCB-Collaboratory/telescope
+pip install git+https://github.com/Mangul-Lab-USC/telescope
 ```
 
 ### Running
@@ -56,16 +57,15 @@ Finally, run this python script:
 ```
 python RunTelescope.py
 ```
-This should automatically open a web broswer with telescope running. More details about ```RunTelescope.py``` can be found in the [Documentation](https://github.com/QCB-Collaboratory/telescope/wiki/Documentation) portion of the wiki.
+This should automatically open a web broswer with telescope running. More details about ```RunTelescope.py``` can be found in the [Documentation](https://github.com/Mangul-Lab-USC/telescope/wiki/Documentation) portion of the wiki.
 
-If an error message appears, you may have found a bug -- we'd appreciate if you could report it. For more details, please visit our [wiki](https://github.com/QCB-Collaboratory/telescope/wiki/Documentation) or join the conversation at [gitter](https://gitter.im/unix-telescope/Lobby).
+If an error message appears, you may have found a bug -- we'd appreciate if you could report it. For more details, please visit our [wiki](https://github.com/Mangul-Lab-USC/telescope/wiki/Documentation).
 
 
 ## Contact, bugs and suggestions
 
 If you find bugs and/or have suggestions for Telescope, please
-* [Open an issue](https://github.com/QCB-Collaboratory/telescope/issues) with a detailed description;
-* Use [gitter](https://gitter.im/unix-telescope/Lobby) to talk to us.
+* [Open an issue](https://github.com/Mangul-Lab-USC/telescope/issues) with a detailed description;
 
 ## Dependencies
 
@@ -85,7 +85,8 @@ Telescope is shared under the [GNU General Public License v3.0](https://github.c
 
 ```
 Telescope
-Copyright (C) 2017  QCB Collaboratory, et al
+Copyright (C) 2017-2019  QCB Collaboratory, et al
+Copyright (C) 2019 Mangul Lab - USC, et al
 
 This material is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
